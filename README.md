@@ -695,14 +695,14 @@ echo "Archivo Bajado...";
 ?>
 ```
 
-** Comprimir un archivo a formato Zip **
+**Comprimir un archivo a formato Zip **
 
 ```php
 zipFile( "ruta final del file" )
 ```
 Este método Retorna la ruta Final del Archivo .zip.
 
-** Comprimir un archivo a formato Zip y Bajarlo Al mismo tiempo **
+**Comprimir un archivo a formato Zip y Bajarlo Al mismo tiempo **
 
 ```php
 dowFile( "ruta final del file"  , true )
